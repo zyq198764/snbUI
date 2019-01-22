@@ -1,0 +1,12 @@
+2019-01-22 15:41:05,793 - /Users/jlc/Downloads/JLC_AutoTest/JLC_AutoTest/common/logger.py[line:35] - INFO: 已经输入错误的支付密码122457
+2019-01-22 15:41:05,795 - /Users/jlc/Downloads/JLC_AutoTest/JLC_AutoTest/common/logger.py[line:35] - INFO: 弹出错误支付密码的弹窗，点击重新输入
+2019-01-22 15:41:05,796 - /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/macaca/remote_invoker.py[line:139] - DEBUG: Method: POST, Url: http://localhost:3456/wd/hub/session/45563d12-7681-40ce-8b59-72757fe65867/element, Body: {'using': 'name', 'value': '重新输入'}.
+2019-01-22 15:41:05,797 - /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py[line:208] - DEBUG: Starting new HTTP connection (1): localhost
+2019-01-22 15:41:05,974 - /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py[line:396] - DEBUG: http://localhost:3456 "POST /wd/hub/session/45563d12-7681-40ce-8b59-72757fe65867/element HTTP/1.1" 200 38
+2019-01-22 15:41:05,978 - /Users/jlc/Downloads/JLC_AutoTest/JLC_AutoTest/common/logger.py[line:35] - INFO: 异常信息：
+Error: WebDriverError.NO_SUCH_ELEMENT
+Message: 
+
+2019-01-22 15:41:05,979 - /Users/jlc/Downloads/JLC_AutoTest/JLC_AutoTest/common/logger.py[line:35] - INFO: ------------立即买入测试：end!------------------
+2019-01-22 15:41:05,982 - /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/macaca/remote_invoker.py[line:139] - DEBUG: Method: DELETE, Url: http://localhost:3456/wd/hub/session/45563d12-7681-40ce-8b59-72757fe65867, Body: None.
+2019-01-22 15:41:05,984 - /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py[line:208] - DEBUG: Starting new HTTP connection (1): localhost
